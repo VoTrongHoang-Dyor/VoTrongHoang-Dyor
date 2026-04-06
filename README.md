@@ -2,11 +2,11 @@
   <h1 align="center">👋 Hello world, I’m Trọng Hoàng | DYOR</h1>
 
   <h3 align="center">
-    Decentralized Architect 🛠️ • Enterprise Security 🔐 • AI-Native Developer 👾
+    System Architect 🛠️ • First Principles Thinking 🧑🏻 • AI Orchestrator 🧠
   </h3>
 
   <p align="center">
-    <i>"Building the Digital Bunker for Sovereign Businesses. Leveraging AI for Hyper-Efficiency."</i>
+    <i>"Deconstructing complex systems to their fundamental truths. Building secure, scalable, and user-centric digital realities."</i>
   </p>
 
   <a href="#"> <img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="https://x.com/tera_chat">
-    <img src="https://img.shields.io/badge/X_(Twitter)-000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+    <img src="https://img.shields.io/badge/Twitter-000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -27,94 +27,71 @@
 
 ---
 
-## 🌍 About Me
+## 🧠 Mindset & Philosophy
 
-I am a developer focused on **Sovereign Infrastructure** and **High-Assurance Security**. My mission is to eliminate "Single Points of Failure" in business communications.
+I am a builder driven by curiosity and a relentless pursuit of the root cause. Rather than just writing code, I focus on understanding the deeper structure behind technical systems and analyzing workflows from a high-level systems perspective.
 
-Currently, I am architecting **TeraChat Enterprise OS** – a Desktop-First operating system that merges Communication, Governance, and Crypto-Finance into a single "Digital Bunker" for organizations.
-
-- 🔭 **Flagship Project:** [TeraChat Enterprise](#-flagship-project-terachat-enterprise-os) - The Digital Bunker for Business.
-- 🌱 **Core Focus:** MLS (RFC 9420), Federated Clusters, Post-Quantum Cryptography, and Rust/WASM Runtimes.
-- ⚡ **Philosophy:** "Zero-Knowledge Architecture. We build the walls; you hold the keys."
+* **First-Principles Problem Solving:** I actively question assumptions and deconstruct complex challenges into their most fundamental truths before engineering a solution.
+* **Product-Oriented Engineering:** Technical brilliance means nothing without user value. I connect deep technical learning with practical business applications to build secure, scalable, and highly user-centered digital solutions.
+* **Extreme Ownership & Initiative:** I am an independent, self-driven worker who thrives on taking proactive ideas and turning them into hands-on experiments. 
+* **Continuous Evolution:** A fast learner with the ability to quickly explore, absorb, and integrate new tools, concepts, and architectural patterns into my daily workflow.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🏗️ Current Endeavors
 
-### 🔐 Enterprise & System Architecture
+I apply my system-thinking approach to architecting robust, sovereign, and intelligent infrastructures. Currently, I am the driving force behind two core projects:
+
+* **[MCP-Smart-context](https://github.com/votronghoang-dyor/mcp-smart-context):** An advanced Model Context Protocol routing framework. Built to orchestrate hyper-concurrent AI workflows, managing dynamic memory eviction and semantic indexing across decentralized clusters.
+* **[TeraChat Enterprise OS](https://github.com/votronghoang-dyor/terachat):** A Sovereign Desktop-First operating system. Moving beyond standard messaging, it merges secure communication (MLS Protocol), governance, and crypto-finance into an impenetrable "Digital Bunker" for businesses.
+
+---
+
+## 🛠️ Tech Stack & Architecture
+
+### 🔐 Systems & Infrastructure
 <p>
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
   <img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black" alt="Tauri"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="K8s"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"/>
 </p>
 
-### 🌐 Decentralized Infrastructure
-<p>
-  <img src="https://img.shields.io/badge/TON-0098EA?style=for-the-badge&logo=ton&logoColor=white" alt="TON"/>
-  <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" alt="Solana"/>
-  <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" alt="IPFS"/>
-</p>
-
-### ⚡ Automation & Scripting Ecosystem
+### ⚡ Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
 </p>
 
 ---
 
-## 🚀 Flagship Project: TeraChat Enterprise OS
+## 🧠 The AI Orchestrator Ecosystem
 
-> **"The Digital Bunker. Federated. Invisible. Sovereign."**
+I do not use AI as a simple chatbot; I architect it as a **Collaborative Intelligence Layer**. By decomposing tasks systematically, I operate as a central router, delegating complex workloads across multiple LLMs simultaneously.
 
-**TeraChat Enterprise** is not just a messaging app; it is a **Web3 Operating System** designed for organizations that demand absolute control. Moving away from fragile single-VPS setups, we utilize **Federated Private Clusters** to ensure 99.99% uptime and data sovereignty.
+> **| ⚡ CPI: 9000 |** *Operating at a Compute Power Index of 9000, sustaining massive high-concurrency routing across Claude, Gemini, and OpenAI infrastructures to achieve unparalleled hyper-efficiency.*
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Core-Rust_&_Tauri-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Protocol-MLS_(RFC_9420)-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Infra-Federated_K8s-326ce5?style=flat-square" />
-  <img src="https://img.shields.io/badge/Security-Hardware_Backed-green?style=flat-square" />
-</div>
+### <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT"/> **Idea Conceptualization & Structuring**
+Acting as the foundational layer to outline frameworks, brainstorm concepts, and draft the initial architectural blueprints from scratch.
 
-<br/>
+### <img src="https://img.shields.io/badge/Gemini_Pro-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini Pro"/> **Interpretation & Idea Expansion**
+Utilized for deeply interpreting core concepts, expanding on raw ideas, and maintaining extensive context across the entire development lifecycle.
 
-### 🏗️ Technical Architecture (v2.0)
+### <img src="https://img.shields.io/badge/Claude_Opus-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Opus"/> **Project Development Support**
+Delegated for the heavy lifting in active project development: complex logic implementation, secure code generation, and low-level system design.
 
-| Module | Description & Tech Stack |
-| :--- | :--- |
-| **🏰 Federated Clusters** | Replaced single VPS with **Self-healing Clusters**. Data is sharded via Erasure Coding across nodes. **Zero-Knowledge** architecture ensures even the server admin cannot see the payload. |
-| **🔐 Secure Workspace** | **Desktop-First (Windows/macOS)**. Features a **WASM Code Sandbox** for viewing sensitive algorithms without clipboard access, protected by dynamic watermarking and OS-level screen capture prevention. |
-| **💸 Smart Finance** | **Biometric Signing** for crypto transactions (USDT/TON). Approvals are signed inside the **Secure Enclave/TPM** and executed via Atomic Swap Smart Contracts. "One-touch" payroll/disbursement. |
-| **🎭 Remote Kill Switch** | **Crypto-Shredding** technology. Admins can remotely revoke access, instantly destroying the encryption keys in the hardware chip, rendering local data mathematically unrecoverable. |
-| **🕸️ Hybrid Mesh** | **Air-Gapped Ready**. Uses **LAN/Wi-Fi Direct** for high-speed internal transfers and falls back to **Bluetooth Mesh** in offline scenarios. Metadata is scrubbed via **Sealed Sender** technology. |
+### <img src="https://img.shields.io/badge/Grok-000000?style=flat-square&logo=x&logoColor=white" alt="Grok"/> <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=flat-square&logo=githubcopilot&logoColor=white" alt="Copilot"/> <img src="https://img.shields.io/badge/Perplexity-22BBC3?style=flat-square&logo=perplexity&logoColor=white" alt="Perplexity"/> **Real-Time Intelligence Base**
+The instantaneous knowledge trio for dynamic cross-referencing, fetching live protocol specifications, and inline macro assistance.
 
 ---
 
-## 👾 AI-Native Development Workflow
+## 📚 Technical Knowledge Base
 
-I treat AI not just as a search tool, but as a **Collaborative Intelligence** layer. I leverage specific models for specialized stages of the development lifecycle.
-
-### <img src="https://img.shields.io/badge/Claude_Opus-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Opus"/> **Core Architect & System Design**
-> Dedicated to the **heavy lifting**: Designing complex system architecture, defining core logic for the Federated Clusters, and ensuring Rust memory safety patterns.
-
-### <img src="https://img.shields.io/badge/Gemini_Pro-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini Pro"/> **Efficiency & Context Engine**
-> Utilized for **lighter tasks**: Handling general code refactoring, rapid unit testing, and maintaining context across documentation summaries.
-
-### <img src="https://img.shields.io/badge/Grok-000000?style=flat-square&logo=x&logoColor=white" alt="Grok"/> <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=flat-square&logo=githubcopilot&logoColor=white" alt="Copilot"/> <img src="https://img.shields.io/badge/Perplexity-22BBC3?style=flat-square&logo=perplexity&logoColor=white" alt="Perplexity"/>
-**Real-time Intelligence & Support**
-> The **knowledge base trio**: Used for instant information retrieval, fetching the latest crypto protocols, and inline coding assistance.
-
----
-
-## 📚 NotebookLM Technical Documents
-
-I maintain deep-dive technical notes and AI-curated knowledge bases powered by **Google NotebookLM**. Click below to access my full research documentation:
+Continuous improvement requires meticulous documentation. I maintain deep-dive technical notes and curated architectures powered by **Google NotebookLM**:
 
 <p align="left">
   <a href="https://notebooklm.google.com/notebook/52629132-2936-4952-87a5-774ffc651ec4?authuser=1">
@@ -133,9 +110,9 @@ I maintain deep-dive technical notes and AI-curated knowledge bases powered by *
 
 ---
 
-## 💖 Support The Development
+## 💖 Support me 
 
-Building a Sovereign OS is a resource-intensive journey. If you believe in privacy and decentralized infrastructure, your support is greatly appreciated.
+If you resonate with first-principles engineering, robust system architecture, and sovereign digital solutions, your support accelerates the development of these ecosystems.
 
 <p align="left">
   <a href="https://ko-fi.com/tronghoang_dyor">
